@@ -4,7 +4,7 @@
 
 void kmain(void)
 {
-	char *str = "This is a beginners kernal"; //String to print to screen
+	char *str = "This is a beginners kernel"; //String to print to screen
 	char *vidptr = (char*)0xb8000; //video memory begins here
 	unsigned int i = 0;
 	unsigned int j = 0;
