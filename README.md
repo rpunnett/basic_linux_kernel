@@ -1,7 +1,7 @@
 linux_kernel
 ============
 
-A small linux kernel, in assembly and C, that prints a string to console.
+A linux kernel, in assembly and C, that prints a string to console.
 
 Based off the the project found here: 
 
